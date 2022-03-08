@@ -5,7 +5,7 @@
 **Analysis Goal :** To understand how the restaurant market in L.A. is represented in terms of:
 - Restaurant types proportions
 - Competition
-- Size in terms of number of seats 
+- Size (in terms of number of seats) 
 - Locations
 
 **Data Source :**
